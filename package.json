@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/yajamon/ts-react-project-sample/issues"
   },
-  "homepage": "https://github.com/yajamon/ts-react-project-sample#readme"
+  "homepage": "https://github.com/yajamon/ts-react-project-sample#readme",
+  "dependencies": {
+    "@types/react": "^16.0.40",
+    "@types/react-dom": "^16.0.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
